@@ -1,5 +1,3 @@
-import 'package:flutter_application_1/presentation/onboarding/onboarding_view.dart';
-
 class AppSting {
   static const noRouteFound = "No Route Found";
   static const onBoardingTitle1 = "See The Best Course #1";
